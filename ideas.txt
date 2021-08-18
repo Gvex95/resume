@@ -1,0 +1,25 @@
+1. Scholarship -> application level demo app with offline mode but same features as online mode (3 meseca)
+2. Swoosh -> rest, reselet, web, gcast, debug (3 meseca)
+
+
+3. junior software engineer -> resavao bagove, dodavao feature , APP LEVEL
+
+4. medior sofware engineer -> player (mp, svasta nesto, ac3, titlovi, etc...)
+5. aosp, build, toolchains, jenkins, system integration, relase management, gerrit
+
+
+6. intrest. general multimedia: trakt, realdebrid, 
+
+7. education:
+    osnovne 
+    master
+    predmeti
+
+8. technical experience
+    github projekti + faks projekti
+
+
+9. technology
+    java, c++, c, python, jenkins, gerrit, git
+
+ 
