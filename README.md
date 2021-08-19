@@ -12,7 +12,7 @@ Build instructions:
 
 ```sh
 
-(cd docker && docker build . -t mgvero-resume)
+cd docker && docker build . -t mgvero-resume
 
 ```
 
@@ -32,6 +32,6 @@ docker run -it -v `pwd`:/workspace mgvero-resume
 
 ```sh
 
-(cd /workspace && lualatex Milan_Gvero_CV.tex)
+cd /workspace && lualatex Milan_Gvero_CV.tex
 
 ```
