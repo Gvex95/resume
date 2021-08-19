@@ -12,7 +12,7 @@ Build instructions:
 
 ```sh
 
-(cd docker && docker build . -t spiricn-resume)
+(cd docker && docker build . -t mgvero-resume)
 
 ```
 
@@ -22,7 +22,7 @@ Build instructions:
 
 ```sh
 
-docker run -it -v `pwd`:/workspace spiricn-resume
+docker run -it -v `pwd`:/workspace mgvero-resume
 
 ```
 
@@ -32,6 +32,6 @@ docker run -it -v `pwd`:/workspace spiricn-resume
 
 ```sh
 
-(cd /workspace && lualatex Nikola_Spiric_CV.tex)
+(cd /workspace && lualatex Milan_Gvero_CV.tex)
 
 ```
